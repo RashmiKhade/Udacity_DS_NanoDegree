@@ -23,6 +23,7 @@ Udacity_DataScientist_Term2_Proj1.ipynb - notebook which has the code analysing 
 - sklearn.preprocessing.MinMaxScaler
 - scikitplot.skplt
 
+link to the notebook - https://github.com/RashmiKhade/Udacity_DS_NanoDegree/blob/master/Udacity_DataScientist_Term2_Proj1.ipynb
 
 The findings have been put in a blog which can be found at https://medium.com/@rashmi.khade/top-3-findings-related-to-job-satisfaction-ed0ce074a72a
 
