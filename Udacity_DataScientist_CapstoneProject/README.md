@@ -35,7 +35,7 @@ Here is the schema and explanation of each variable in the files:
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 
-link to the notebook - 
+link to the notebook - https://github.com/RashmiKhade/Udacity_DS_NanoDegree/blob/master/Udacity_DataScientist_CapstoneProject/Starbucks_Capstone_notebook.ipynb
 
 A detailed blog can be found at -  https://medium.com/@rashmi.khade/starbucks-capstone-challenge-ba6b42e9c83a
 
